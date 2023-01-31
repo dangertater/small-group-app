@@ -1,0 +1,10 @@
+src/components/inputs.tsx
+--line 5
+--goal is mui input with placeholder that is declared in the props on App.tsx
+--Jan 31st
+
+src/components/buttons.tsx
+--line 4
+--goal is import svg file and use as the navbar menu button
+--got this to work with MUI generated icons, but want to know how to use personal svg images
+--Jan 31st
