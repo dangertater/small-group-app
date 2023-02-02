@@ -1,6 +1,6 @@
 import React from "react"
 import { Button } from "@mui/material"
-// import { ReactComponent as GreenMenuButton } from "../images/greenMenuButton.svg"
+// import { ReactComponent as GreenMenuButton } from "/Users/mikew/Programming/small-group-app/my-app/src/images/greenMenuButton.svg"
 //TODO: import green lines as the menu button
 //general use 'Submit' button
 export function SubmitButton(props: { children?: string }) {
