@@ -20,6 +20,8 @@ export let NavBar = styled("div")`
 	height: 7vh;
 	display: flex;
 	padding-left: 2vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
 `
 
 //Below is TS syntax example
