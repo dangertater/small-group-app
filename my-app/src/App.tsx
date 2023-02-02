@@ -1,5 +1,6 @@
 import React from "react"
 import "./App.css"
+import { ValidateUser } from "./YupValidateUser"
 import { Div, HorizontalDiv, NavBar } from "./components/div"
 import { SubmitButton, NavBarButton } from "./components/buttons"
 import { GeneralInputWindow } from "./components/inputs"

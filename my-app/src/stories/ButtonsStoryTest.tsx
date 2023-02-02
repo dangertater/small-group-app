@@ -3,9 +3,6 @@ import { Button } from "@mui/material"
 // import { ReactComponent as GreenMenuButton } from "../images/greenMenuButton.svg"
 //TODO: import green lines as the menu button
 //general use 'Submit' button
-interface SubmitButtonProps {
-	onclick?: () => void
-}
 
 export function SubmitButton(props: { children?: string }) {
 	return (
